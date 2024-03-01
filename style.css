@@ -1,0 +1,8 @@
+#navybar{
+    display: flex;
+    justify-content: space-evenly;
+}
+#tin{
+    background-image: url(barkery.jpg);
+    background-size: cover;
+}
